@@ -11,16 +11,21 @@
 
 ## Usage/Examples
 
+**From Terminal**
+
 **Frontend:**
 
+**root directory**:
+
     cd react-frontend
-
     npm install
-
     npm start dev
 
 **Backend:**
 
+**root directory:**
+
+    cd spring-backend
     mvn spring-boot:run 
 
     
