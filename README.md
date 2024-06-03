@@ -19,6 +19,7 @@
 
     cd react-frontend
     npm install
+    npm audit fix
     npm start dev
 
 **Backend:**
